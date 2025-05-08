@@ -8,7 +8,9 @@ Una app web sencilla para llevar libros de cuenta de usuarios, sin validación, 
 
 ## Instalación
 
-1. Clona o descarga este repositorio:
+1. Ejecuta las siguientes isntrucciones para poner en funcionamiento el script:
    ```bash
-   git clone <repo-url> ledger-app
-   cd ledger-app
+   - git clone <repo-url> ledger-app
+   - cd ledger-app
+   - php -S localhost:8000
+   - http://localhost:8000/index.php
